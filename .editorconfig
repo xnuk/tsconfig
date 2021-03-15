@@ -1,0 +1,5 @@
+root = true
+
+[*.*]
+indent_size = 0
+indent_style = tab
