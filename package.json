@@ -1,0 +1,8 @@
+{ "name": "xnuk-tsconfig"
+, "version": "1.0.0"
+, "private": false
+, "author": "Xnuk Shuman"
+, "license": "CC0-1.0"
+, "keywords": ["tsconfig", "typescript"]
+, "peerDependencies": { "typescript": ">= 4.1" }
+}
