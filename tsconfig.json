@@ -1,0 +1,34 @@
+{ "compilerOptions":
+
+{ "module": "esnext"
+, "moduleResolution": "node"
+, "resolveJsonModule": true
+, "target": "esnext"
+
+, "jsx": "react-jsx"
+, "plugins": [{ "name": "typescript-plugin-css-modules" }]
+
+, "allowJs": false
+, "strict": true
+, "isolatedModules": true
+
+, "noUnusedLocals": true
+, "noUnusedParameters": true
+, "noImplicitReturns": true
+, "noUncheckedIndexedAccess": true
+, "noPropertyAccessFromIndexSignature": true
+, "noFallthroughCasesInSwitch": true
+, "allowUnreachableCode": false
+, "forceConsistentCasingInFileNames": true
+
+, "removeComments": true
+, "stripInternal": true
+, "importsNotUsedAsValues": "remove"
+
+, "skipLibCheck": true
+, "noEmitOnError": true
+, "incremental": true
+, "assumeChangesOnlyAffectDirectDependencies": true
+}
+
+}
