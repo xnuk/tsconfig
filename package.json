@@ -1,8 +1,10 @@
-{ "name": "xnuk-tsconfig"
+{ "name": "@xnuk/tsconfig"
 , "version": "1.0.0"
 , "private": false
 , "author": "Xnuk Shuman"
+, "repository": "git://github.com/xnuk/tsconfig"
 , "license": "CC0-1.0"
 , "keywords": ["tsconfig", "typescript"]
 , "peerDependencies": { "typescript": ">= 4.1" }
+, "publishConfig": { "registry": "https://npm.pkg.github.com" }
 }
