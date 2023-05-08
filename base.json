@@ -1,7 +1,6 @@
 { "compilerOptions":
 
 { "module": "esnext"
-, "moduleResolution": "node"
 , "resolveJsonModule": true
 , "target": "esnext"
 
@@ -27,6 +26,10 @@
 , "skipLibCheck": true
 , "noEmitOnError": true
 , "assumeChangesOnlyAffectDirectDependencies": true
+ 
+, "allowImportingTsExtensions": true
+, "moduleDetection": "force"
+, "moduleResolution": "bundler"
 }
 
 }
