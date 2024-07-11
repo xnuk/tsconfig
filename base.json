@@ -9,6 +9,8 @@
 , "allowJs": false
 , "strict": true
 , "isolatedModules": true
+
+, "composite": true
 , "isolatedDeclarations": true
 
 , "noUnusedLocals": true
