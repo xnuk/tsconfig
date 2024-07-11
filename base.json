@@ -9,6 +9,7 @@
 , "allowJs": false
 , "strict": true
 , "isolatedModules": true
+, "isolatedDeclarations": true
 
 , "noUnusedLocals": true
 , "noUnusedParameters": true
@@ -26,7 +27,7 @@
 , "skipLibCheck": true
 , "noEmitOnError": true
 , "assumeChangesOnlyAffectDirectDependencies": true
- 
+
 , "allowImportingTsExtensions": true
 , "moduleDetection": "force"
 , "moduleResolution": "bundler"
