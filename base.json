@@ -24,7 +24,7 @@
 
 , "removeComments": true
 , "stripInternal": true
-, "importsNotUsedAsValues": "remove"
+, "verbatimModuleSyntax": true
 
 , "skipLibCheck": true
 , "noEmitOnError": true
